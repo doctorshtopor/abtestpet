@@ -8,6 +8,7 @@
 **Датасет:** [E-Commerce Users of a French C2C Fashion Store](https://www.kaggle.com/datasets/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store) (Kaggle, ~99k пользователей, 24 признака)
 
 📊 [Просмотреть ноутбук с графиками](https://nbviewer.org/github/doctorshtopor/abtestpet/blob/main/ab_test_pet.ipynb)
+📋 [Документация по тесту](https://doctorshtopor.github.io/abtestpet/)
 
 ## Стек
 
